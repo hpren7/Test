@@ -1,8 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "About Me:"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a Ph.D in Accounting student at USC Marshall School of Business. I have a broad research interest in financial accounting, such as financial reporting quality, earnings management, institutional investors, disclosure, and auditing. 
