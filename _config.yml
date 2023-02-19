@@ -1,7 +1,8 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Huiping Ren" # the name of your site, e.g. ACME Corp.
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+title: "Huiping Ren" 
 description: "Ph.D. in Accounting at USC Marshall"
+lang: en
 theme: academic-jekyll-theme
 $ gem install academic-jekyll-theme
 
