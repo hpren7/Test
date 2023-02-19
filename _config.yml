@@ -3,3 +3,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Huiping Ren" # the name of your site, e.g. ACME Corp.
 description: "Ph.D. in Accounting at USC Marshall"
 theme: academic-jekyll-theme
+$ gem install academic-jekyll-theme
