@@ -4,3 +4,18 @@ title: "Huiping Ren" # the name of your site, e.g. ACME Corp.
 description: "Ph.D. in Accounting at USC Marshall"
 theme: academic-jekyll-theme
 $ gem install academic-jekyll-theme
+
+
+# layout
+show_social: true
+show_excerpts: false
+show_frame: true
+show_sidebar: false
+
+
+# Menu
+
+Navigation:
+- {title: "About Me", file: "people.md"}
+- {title: "CV", file: "cv.md"}
+- {title: "Personal", file: "contact.md"}
