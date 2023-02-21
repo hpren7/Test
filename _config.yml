@@ -8,9 +8,9 @@ lang: en
 
 
 # layout
-show_social: true
+show_social: false
 show_excerpts: false
-show_frame: true
+show_frame: false
 show_sidebar: false
 
 
