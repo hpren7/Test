@@ -17,6 +17,6 @@ show_sidebar: false
 # Menu
 
 Navigation:
-- {title: "About Me", file: "people.md"}
+- {title: "About Me", file: "home.md"}
 - {title: "CV", file: "cv.md"}
 - {title: "Personal", file: "contact.md"}
