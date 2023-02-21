@@ -3,8 +3,8 @@
 title: "Huiping Ren" 
 description: "Ph.D. in Accounting at USC Marshall"
 lang: en
-theme: academic-jekyll-theme
-$ gem install academic-jekyll-theme
+# theme: academic-jekyll-theme
+# $ gem install academic-jekyll-theme
 
 
 # layout
