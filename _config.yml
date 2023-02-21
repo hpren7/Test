@@ -19,4 +19,5 @@ show_sidebar: false
 Navigation:
 - {title: "About Me", file: "home.md"}
 - {title: "CV", file: "cv.md"}
-- {title: "Personal", file: "contact.md"}
+- {title: "Personal", file: "personal.md"}
+- {title: "Contact", file: "contact.md"}
